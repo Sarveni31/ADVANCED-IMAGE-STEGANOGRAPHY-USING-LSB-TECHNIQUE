@@ -109,7 +109,7 @@ def project_info():
                 <tr><td>Vaishnavi Samala</td><td>ST#IS#7417</td><td>samalavaish77@gmail.com</td></tr>
                 <tr><td>B.S.S.Sarveni</td><td>ST#IS#7419</td><td>seshasai116@gmail.com</td></tr>
                 <tr><td>S.Prem Kumar</td><td>ST#IS#7427</td><td>premk45917@gmail.com</td></tr>
-                <tr><td>Prasanna Agulla</td><td>ST#IS#7415</td><td>saikiranfor875@gmail.com</td></tr>
+                <tr><td>Prasanna Agulla</td><td>ST#IS#7415</td><td>aaprasannasrinivas@gmail.com</td></tr>
             </table>
 
             <h2>Company Details</h2>
